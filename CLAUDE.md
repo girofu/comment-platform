@@ -16,6 +16,9 @@ Read and follow these skills before writing any code:
 - .claude/skills/supabase-nextjs/SKILL.md
 - .claude/skills/ui-web/SKILL.md
 - .claude/skills/database-schema/SKILL.md
+- .claude/skills/framework-patterns/SKILL.md
+- .claude/skills/domain-knowledge/SKILL.md
+- .claude/skills/design-system/SKILL.md
 
 ## Project Overview
 

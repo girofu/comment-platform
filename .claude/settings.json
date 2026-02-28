@@ -1,0 +1,17 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(next *)",
+      "Bash(npx next *)",
+      "Bash(vercel *)",
+      "Bash(supabase *)",
+      "Bash(npx supabase *)",
+      "Bash(pnpm *)",
+      "Bash(jest *)",
+      "Bash(npx jest *)",
+      "Bash(eslint *)",
+      "Bash(prettier *)",
+      "Bash(tsc *)"
+    ]
+  }
+}

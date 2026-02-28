@@ -1,0 +1,14 @@
+[
+  {
+    "pattern": "Bash(openspec *)",
+    "display": "openspec",
+    "tool": "Bash",
+    "timestamp": "2026-02-28T13:09:38Z"
+  },
+  {
+    "pattern": "Bash(mkdir *)",
+    "display": "mkdir",
+    "tool": "Bash",
+    "timestamp": "2026-02-28T13:14:55Z"
+  }
+]

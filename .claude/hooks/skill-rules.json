@@ -1,0 +1,56 @@
+{
+  "rules": [
+    {
+      "skill": "framework-patterns",
+      "triggers": {
+        "directories": [
+          "src/app/",
+          "src/components/",
+          "src/lib/",
+          "src/hooks/"
+        ],
+        "extensions": [".tsx", ".ts"],
+        "keywords": [
+          "component",
+          "page",
+          "layout",
+          "route",
+          "middleware",
+          "server action",
+          "next",
+          "app router"
+        ]
+      }
+    },
+    {
+      "skill": "domain-knowledge",
+      "triggers": {
+        "directories": [
+          "src/lib/",
+          "src/services/",
+          "src/app/api/",
+          "supabase/"
+        ],
+        "extensions": [".ts", ".sql"],
+        "keywords": [
+          "review",
+          "coach",
+          "trust score",
+          "PoS",
+          "shadowban",
+          "claim",
+          "dedup",
+          "OCR"
+        ]
+      }
+    },
+    {
+      "skill": "design-system",
+      "triggers": {
+        "directories": ["src/components/ui/", "src/styles/"],
+        "extensions": [".tsx", ".css"],
+        "keywords": ["style", "theme", "color", "tailwind", "ui component"]
+      }
+    }
+  ]
+}
