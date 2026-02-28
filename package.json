@@ -16,7 +16,7 @@
     "db:stop": "supabase stop",
     "db:migrate": "supabase db push",
     "db:reset": "supabase db reset",
-    "db:gen-types": "supabase gen types typescript --local > src/lib/database.types.ts",
+    "db:gen-types": "supabase gen types typescript --local 2>/dev/null > src/lib/database.types.ts",
     "prepare": "husky"
   },
   "dependencies": {
